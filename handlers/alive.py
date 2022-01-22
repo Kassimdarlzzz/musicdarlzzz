@@ -34,14 +34,14 @@ async def _human_time_duration(seconds):
 @Client.on_message(command("start") & filters.private & ~filters.edited)
 async def start_(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/215452b52bbe8790caa82.jpg",
+        photo=f"https://te.legra.ph/file/6d2226149b1f195f3ff84.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 💥 𝙃𝙚𝙡𝙡𝙤, 𝙄 𝘼𝙢 𝙎𝙪𝙥𝙚𝙧 𝙁𝙖𝙨𝙩 𝙈𝙪𝙨𝙞𝙘 𝙋𝙡𝙖𝙮𝙚𝙧
 𝘽𝙤𝙩 𝙁𝙤𝙧 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙂𝙧𝙤𝙪𝙥𝙨 ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ⚡𝗖𝗵𝗮𝗻𝗻𝗲𝗹⚡ : [𝐀𝐁𝐎𝐔𝐓 𝐎𝐖𝐍𝐄𝐑](https://t.me/ABOUT_BRUTU)
-┣★ ⚡𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑⚡ : [𝐎𝐖𝐍𝐄𝐑 ](https://t.me/B_4_BRUTU_RAJPUT)
-┣★ ⚡𝐎𝐖𝐍𝐄𝐑 𝐆𝐅⚡   : [𝐎𝐖𝐍𝐄𝐑 𝐆𝐅](https://t.me/Attitude_girl_niki)
+┣★ ⚡𝐂𝐡𝐚𝐧𝐧𝐞𝐥⚡ : [𝐓𝐇𝐄 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐍𝐄𝐓𝐖𝐎𝐑𝐊](https://t.me/THE_PROFESSOR_NETWORK)
+┣★ ⚡𝐒𝐮𝐩𝐩𝐨𝐫𝐭⚡ : [𝐒𝐀𝐑𝐅𝐈𝐑𝐎 𝐊𝐈 𝐃𝐔𝐍𝐈𝐘𝐀](https://t.me/MODERN_ELEMENTS)
+┣★ ⚡𝐎𝐰𝐧𝐞𝐫⚡   : [𝐀𝐉𝐄𝐄𝐓 𝐆𝐎𝐍𝐃](https://t.me/PAPA_BOL_SAKTEHO)
 ┗━━━━━━━━━━━━━━━━━┛
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
@@ -72,7 +72,7 @@ async def start(client: Client, message: Message):
     )
 
 
-@Client.on_message(commandpro(["Yuku","Ajeet", "#Channel", "@Channel", "/Channel", "Channel"]) & filters.group & ~filters.edited)
+@Client.on_message(commandpro(["Yuku","Ajeet", "#Channel", "@Channel", "/Channel", "Channel", "@PAPA_BOL_SAKTEHO"]) & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://te.legra.ph/file/fc4eb9f675176cd2f75fa.jpg",
