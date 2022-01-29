@@ -40,7 +40,7 @@ async def start_(client: Client, message: Message):
 𝘽𝙤𝙩 𝙁𝙤𝙧 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙂𝙧𝙤𝙪𝙥𝙨 ...
 ┏━━━━━━━━━━━━━━━━━┓
 ┣★ ⚡𝐂𝐡𝐚𝐧𝐧𝐞𝐥⚡ : [𝐓𝐇𝐄 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐍𝐄𝐓𝐖𝐎𝐑𝐊](https://t.me/THE_PROFESSOR_NETWORK)
-┣★ ⚡𝐒𝐮𝐩𝐩𝐨𝐫𝐭⚡ : [𝐒𝐀𝐑𝐅𝐈𝐑𝐎 𝐊𝐈 𝐃𝐔𝐍𝐈𝐘𝐀](https://t.me/MODERN_ELEMENTS)
+┣★ ⚡𝐒𝐮𝐩𝐩𝐨𝐫𝐭⚡ : [⁪⁬⁮╚»𝐓-𝐏-𝗡«╝❥≛⃝🥀❥𝐂𝐇𝐀𝐓 𝐑𝐎𝐎𝐌🖤⃝](https://t.me/MODERN_ELEMENTS)
 ┣★ ⚡𝐎𝐰𝐧𝐞𝐫⚡   : [𝐀𝐉𝐄𝐄𝐓 𝐆𝐎𝐍𝐃](https://t.me/PAPA_BOL_SAKTEHO)
 ┗━━━━━━━━━━━━━━━━━┛
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
